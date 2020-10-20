@@ -22,8 +22,6 @@
     <list default="true" id="6c61c1a9-4b87-4a91-b7af-59f969655e27" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Menegjer Afishi/src/main/java/MovieItem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Menegjer Afishi/src/main/java/MovieManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/netology/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/netology/RadioTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lombok/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lombok/src/main/java/netology/Radio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lombok/src/test/java/netology/RadioTest.java" afterDir="false" />
@@ -35,6 +33,11 @@
       <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/netology/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netology/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/netology/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/netology/RadioTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../target/classes/netology/Radio.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../target/test-classes/netology/RadioTest.class" beforeDir="false" />
@@ -52,7 +55,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j8HeWdmLvl6I4ofP4RkZ78PvPa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -117,5 +120,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="798" height="256" key="GridCell.Tab.0.bottom" timestamp="1603180313384">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603179955830" />
+    <state width="798" height="256" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1603180313384" />
+    <state width="798" height="256" key="GridCell.Tab.0.center" timestamp="1603180313382">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603179955827" />
+    <state width="798" height="256" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1603180313382" />
+    <state width="798" height="256" key="GridCell.Tab.0.left" timestamp="1603180313382">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603179955826" />
+    <state width="798" height="256" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1603180313382" />
+    <state width="798" height="256" key="GridCell.Tab.0.right" timestamp="1603180313383">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603179955829" />
+    <state width="798" height="256" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1603180313383" />
   </component>
 </project>
