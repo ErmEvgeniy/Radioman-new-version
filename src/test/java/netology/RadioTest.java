@@ -94,5 +94,4 @@ class RadioTest {
         radio2.setStation(3);
 
     }
-
 }
