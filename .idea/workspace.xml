@@ -24,7 +24,6 @@
       <change afterPath="$PROJECT_DIR$/../Menegjer Afishi/src/main/java/MovieManager.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/netology/Radio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/netology/RadioTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lombok/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lombok/src/main/java/netology/Radio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lombok/src/test/java/netology/RadioTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../radioman/src/test/java/netology/RadioTest.java" afterDir="false" />
@@ -117,5 +116,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
