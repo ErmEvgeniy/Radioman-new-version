@@ -22,8 +22,12 @@
     <list default="true" id="6c61c1a9-4b87-4a91-b7af-59f969655e27" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Menegjer Afishi/src/main/java/MovieItem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Menegjer Afishi/src/main/java/MovieManager.java" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/netology/Radio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/netology/RadioTest.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/../lombok/.gitignore" afterDir="false" />
+>>>>>>> 64e866349d868fd4532021af230f1c633e2d1356
       <change afterPath="$PROJECT_DIR$/../lombok/src/main/java/netology/Radio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lombok/src/test/java/netology/RadioTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../radioman/src/test/java/netology/RadioTest.java" afterDir="false" />
@@ -34,6 +38,11 @@
       <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/netology/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netology/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/netology/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/netology/RadioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/netology/Radio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netology/Radio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/netology/RadioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/netology/RadioTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../target/classes/netology/Radio.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../target/test-classes/netology/RadioTest.class" beforeDir="false" />
@@ -47,11 +56,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j8HeWdmLvl6I4ofP4RkZ78PvPa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,6 +74,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
@@ -71,7 +83,7 @@
       <recent name="netology" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.RadioTest">
     <configuration name="RadioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Radioman new version" />
       <extension name="coverage">
@@ -87,9 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RadioTest.getCurrentStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Radioman new version" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="netology" />
+      <option name="MAIN_CLASS_NAME" value="netology.RadioTest" />
+      <option name="METHOD_NAME" value="getCurrentStation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RadioTest" />
+        <item itemvalue="JUnit.RadioTest.getCurrentStation" />
       </list>
     </recent_temporary>
   </component>
@@ -117,5 +146,34 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+<<<<<<< HEAD
+=======
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="798" height="256" key="GridCell.Tab.0.bottom" timestamp="1603215451706">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603179955830" />
+    <state width="798" height="256" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1603215451706" />
+    <state width="798" height="256" key="GridCell.Tab.0.center" timestamp="1603215451704">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603179955827" />
+    <state width="798" height="256" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1603215451704" />
+    <state width="798" height="256" key="GridCell.Tab.0.left" timestamp="1603215451703">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603179955826" />
+    <state width="798" height="256" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1603215451703" />
+    <state width="798" height="256" key="GridCell.Tab.0.right" timestamp="1603215451705">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603179955829" />
+    <state width="798" height="256" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1603215451705" />
+    <state x="727" y="124" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603215245447">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="727" y="124" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.808@0.23.1440.808" timestamp="1603215245447" />
+>>>>>>> 64e866349d868fd4532021af230f1c633e2d1356
   </component>
 </project>
