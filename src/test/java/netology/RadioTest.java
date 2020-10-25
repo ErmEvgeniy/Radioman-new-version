@@ -54,16 +54,13 @@ class RadioTest {
     @Test
     public void testRadioNextStation() {
 
-        Radio radio = new Radio(7, 10);
+        Radio radio = new Radio(7, 9);
 
         radio.nextStation();
         assertEquals(8, radio.getStationNumber());
 
         radio.nextStation();
         assertEquals(9, radio.getStationNumber());
-
-        radio.nextStation();
-        assertEquals(10, radio.getStationNumber());
 
         //Если текущая радиостанция - 10 и клиент нажал на кнопку next (следующая) на пульте, то текущей должна стать 0-ая
         radio.nextStation();
