@@ -50,19 +50,15 @@ class RadioTest {
         assertEquals(0, radio.getCurrentSound());
     }
 
-    //переключаем радиостанцию на следующую
+    //переключаем радиостанцию на следующую c конструктором
     @Test
-    public void testRadioNextStation() {
+    public void testRadioNextStationWithConstructor() {
 
-        Radio radio = new Radio(7, 9);
-
-        radio.nextStation();
-        assertEquals(8, radio.getStationNumber());
+        Radio radio = new Radio(8, 9);
 
         radio.nextStation();
         assertEquals(9, radio.getStationNumber());
 
-        //Если текущая радиостанция - 10 и клиент нажал на кнопку next (следующая) на пульте, то текущей должна стать 0-ая
         radio.nextStation();
         assertEquals(0, radio.getStationNumber());
     }
@@ -92,6 +88,7 @@ class RadioTest {
         Radio radio2 = new Radio();
 
         radio2.setStation(3);
+        assertEquals(3,radio2.getStationNumber());
 
     }
 }
